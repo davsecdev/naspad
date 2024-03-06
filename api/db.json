@@ -1,0 +1,77 @@
+{
+  "error": false,
+  "message": "success",
+  "count": 20,
+  "wisata_bali": [
+    {
+      "id": "1",
+      "name": "Gulai Tambusu",
+      "description": "",
+      "imageUrl": "https://assets-pergikuliner.com/uploads/bootsy/image/15026/medium_medium_Gulai_Tambunsu_1__picdeer.com_.jpg",
+      "budget": 5
+    },
+    {
+      "id": "2",
+      "name": "Rendang",
+      "description": "",
+      "imageUrl": "https://asset.kompas.com/crops/AWXtnkYHOrbSxSggVuTs3EzQprM=/10x36:890x623/750x500/data/photo/2023/03/25/641e5ef63dea4.jpg",
+      "budget": 4.7
+    },
+    {
+      "id": "3",
+      "name": "Dadar Padang",
+      "description":  "",
+      "imageUrl": "https://img.kurio.network/YczCy2gwhtZ55stNjk8Jg3OgvlQ=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/02/25/ef90b9e0-3ba7-411d-a3b5-ab6262276fd0.jpe",
+      "budget": 4.5
+    },
+    {
+      "id": "4",
+      "name": " Kerupuk Kulit",
+      "description":  "",
+      "imageUrl": "https://asset.kompas.com/crops/ivYQHrT2rAtn5fhTaIkjCJ_DU1M=/69x42:949x629/750x500/data/photo/2022/05/27/6290497e9062a.jpg",
+      "budget": 4.5
+    },
+    {
+      "id": "5",
+      "name": "Ikan Bawal Bakar",
+      "description": "",
+      "imageUrl": "https://asset.kompas.com/crops/ByNOEJFwB5hx2n6kobAJJOxgxUk=/3x0:700x465/750x500/data/photo/2021/02/15/6029c9f5e0972.jpg",
+      "budget": 4.7
+    },
+    {
+      "id": "6",
+      "name": "Ikan Kembung Bakar",
+      "description": "",
+      "imageUrl": "https://awsimages.detik.net.id/community/media/visual/2022/09/12/resep-ikan-kembung-bakar-ala-rumah-makan-padang_43.jpeg?w=1200",
+      "budget": 4.8
+    },
+    {
+      "id": "7",
+      "name": "Ayam Goreng",
+      "description": "",
+      "imageUrl": "https://awsimages.detik.net.id/community/media/visual/2021/09/18/ilustrasi-ayam-goreng_43.jpeg?w=1200",
+      "budget": 4.6
+    },
+    {
+      "id": "8",
+      "name": "Dendeng Sapi",
+      "description":  "",
+      "imageUrl": "https://asset.kompas.com/crops/2h4qZX9X5zRUaF3sMppsU4PEwGU=/38x72:838x605/780x390/data/photo/2022/04/02/6247cfd4495ba.jpg",
+      "budget": 4.6
+    },
+    {
+      "id": "9",
+      "name": "Ayam Bakar",
+      "description": "",
+      "imageUrl": "https://asset.kompas.com/crops/yoovaRyPxaPFOY4gfCciore2eUY=/3x0:700x465/750x500/data/photo/2020/12/30/5fec5602f116e.jpg",
+      "budget": 4.7
+    },
+    {
+      "name": "Ayam Pop",
+      "description":"",
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/100/2024/02/09/kt14bkDEJGYhd-1371233184.jpg",
+      "budget": 4.5,
+      "id": "10"
+    }
+  ]
+}

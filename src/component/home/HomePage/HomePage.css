@@ -1,0 +1,37 @@
+/* HomePage.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #668284;
+}
+
+
+
+h1 {
+  color: #333;
+}
+
+/* Customize the slideshow container if needed */
+.slideshow-container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* Style each slide if needed */
+.each-slide-effect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px; /* Adjust the height as needed */
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.each-slide-effect span {
+  font-size: 24px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
